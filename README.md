@@ -1,4 +1,9 @@
 ###### README.md >> markdown
+---
+
+[![Client Deploy](https://github.com/teremuhamblin/SiteWebPerso-Client/actions/workflows/client-deploy.yml/badge.svg)](https://github.com/teremuhamblin/SiteWebPerso-Client/actions/workflows/client-deploy.yml)
+
+---
 # SiteWebPerso-Client
 - Client officiel utilisant le projet **SiteWebPerso** comme dépendance.
 
